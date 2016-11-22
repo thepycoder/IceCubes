@@ -527,7 +527,7 @@ object {
 }
 .widget ul li {
   list-style: none;
-  border-bottom: 1px solid #F2F2F2;
+  /* border-bottom: 1px solid #F2F2F2; */
   margin-bottom: 10px;
   padding-bottom: 10px;
 }
@@ -1247,7 +1247,7 @@ p.logged-in-as {
   overflow: hidden;
 }
 #footer-area ul li {
-  border-bottom: 1px solid #f2f2f2;
+  /* border-bottom: 1px solid #f2f2f2; */
 }
 #footer-area .site-info nav ul li {
   border-bottom: none;
