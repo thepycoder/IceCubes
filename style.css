@@ -1575,3 +1575,37 @@ div.textwidget {
 .text {
     display:inline-block;
 }
+
+/* #secondary .tp_recent_tweets a {
+    color: #3e4981;
+} */
+
+.post img {
+    width:100%;
+    height:auto;
+}
+
+.ufaq-faq-div code {
+    padding:0px;
+    color: #6B6B6B;
+    background-color: transparent;
+    font-family: 'Open Sans', serif;
+}
+
+.entry-content code {
+    background-color: transparent;
+    margin: 0px;
+    padding: 0px;
+}
+
+.ufaq-faq-div code a {
+    color: #e2b04d;
+}
+
+.ufaq-faq-title-text h4 {
+    color: #3e4981;
+}
+
+.page .entry-content {
+    margin: 0px;
+}
